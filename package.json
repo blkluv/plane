@@ -25,5 +25,9 @@
     "turbo": "^2.3.3"
   },
   "packageManager": "yarn@1.22.22",
-  "name": "plane"
+  "name": "plane",
+  "engines": {
+    "node": "20.x"
+  }
 }
+
